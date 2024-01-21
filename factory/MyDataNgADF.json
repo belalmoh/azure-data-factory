@@ -1,0 +1,9 @@
+{
+	"name": "MyDataNgADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e20c1122-8043-48ee-92f4-0bd85ccea2c7",
+		"tenantId": "2b773d99-f229-4704-b562-5a3198831779"
+	}
+}
